@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcin Kubiczek
 - 👀 I’m interested in Traveling, Automated Testing, Load and Performance testing
 - 🌱 I’m currently learning Playwright and Selenium for C#
-- 📫 How to reach me kubiczekmar@gmail.com
+- 📫 How to reach me kubiczekmar@gmail.com https://www.linkedin.com/in/marcin-kubiczek-56b716146/
 
 <!---
 MarcinQbix/MarcinQbix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
